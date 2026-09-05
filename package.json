@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Full-Stack Portfolio for Jeevan Kumar - Backend & Full-Stack SDE",
   "scripts": {
+    "postinstall": "npm --prefix server install && npm --prefix client install",
     "install:all": "npm install && npm --prefix server install && npm --prefix client install",
     "server": "npm --prefix server start",
     "client": "npm --prefix client run dev",
