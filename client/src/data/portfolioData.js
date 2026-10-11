@@ -143,6 +143,19 @@ export const portfolioData = {
     },
     {
       id: "exp-6",
+      role: "Web Designer & Digital Marketing Executive",
+      company: "Greenway Enviro Engineers Private Limited",
+      location: "Mangalore, Karnataka",
+      type: "Full-Time",
+      period: "Oct 2023 – Feb 2024",
+      highlights: [
+        "Managed and maintained the company website, ensuring up-to-date content and functionality.",
+        "Executed digital marketing campaigns including advertisement email outreach and phone-based client marketing."
+      ],
+      tags: ["Web Design", "Website Maintenance", "Digital Marketing", "Email Outreach"]
+    },
+    {
+      id: "exp-7",
       role: "Software Engineering Intern – C# / ASP.NET",
       company: "Resideo Smart Home Technologies",
       location: "Bangalore / Remote",
